@@ -1,0 +1,14 @@
+H:\CODING\mocha\c#\pianino\pianino\bin\Debug\net6.0\pianino.exe
+H:\CODING\mocha\c#\pianino\pianino\bin\Debug\net6.0\pianino.deps.json
+H:\CODING\mocha\c#\pianino\pianino\bin\Debug\net6.0\pianino.runtimeconfig.json
+H:\CODING\mocha\c#\pianino\pianino\bin\Debug\net6.0\pianino.dll
+H:\CODING\mocha\c#\pianino\pianino\bin\Debug\net6.0\pianino.pdb
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfoInputs.cache
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfo.cs
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.csproj.CoreCompileInputs.cache
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.dll
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\refint\pianino.dll
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.pdb
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\pianino.genruntimeconfig.cache
+H:\CODING\mocha\c#\pianino\pianino\obj\Debug\net6.0\ref\pianino.dll
